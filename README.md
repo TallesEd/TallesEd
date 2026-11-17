@@ -6,7 +6,6 @@
 
 Transformando necessidades do dia a dia em aplicações práticas.
 
-[![GitHub](https://img.shields.io/badge/GitHub-TallesEd-181717?style=for-the-badge&logo=github)](https://github.com/TallesEd)
 
 </div>
 
